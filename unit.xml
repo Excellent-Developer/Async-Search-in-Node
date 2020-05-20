@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.4840" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-05-18T20:23:52" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="async-search" timestamp="2020-05-18T20:23:52" tests="4" file="C:\Users\Happy Day\Downloads\bb54d0b2a1c2054746880dfceb9a369e\test\index.spec.js" time="0.4840" failures="0">
+    <testcase name="async-search Should emit the event SEARCH_STARTED when the search starts" time="0.0220" classname="Should emit the event SEARCH_STARTED when the search starts">
+    </testcase>
+    <testcase name="async-search Should emit the event SEARCH_ERROR if term passed to the function is falsy" time="0.1530" classname="Should emit the event SEARCH_ERROR if term passed to the function is falsy">
+    </testcase>
+    <testcase name="async-search Should emit the event SEARCH_ERROR if the API service fails with an error" time="0.1520" classname="Should emit the event SEARCH_ERROR if the API service fails with an error">
+    </testcase>
+    <testcase name="async-search Should emit the event SEARCH_SUCCESS with the result" time="0.1570" classname="Should emit the event SEARCH_SUCCESS with the result">
+    </testcase>
+  </testsuite>
+</testsuites>
